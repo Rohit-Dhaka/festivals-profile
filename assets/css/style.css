@@ -421,7 +421,8 @@ input{
         margin-bottom: 20px;
     }
     .post-comment{
-        font-size: 14px;
+        font-size: 12px;
+        padding: 0px 10px;
     }
     .pl-30{
         padding-left: 30px;
@@ -451,6 +452,9 @@ input{
     .sm-pt-18{
         padding-top: 18px;
         
+    }
+    ::placeholder{
+        font-size: 12px;
     }
     
     .item1{
